@@ -1,6 +1,6 @@
-# CoderSchool FTW - * Name of Your Project Here *
+# CoderSchool FTW - * Pew News *
 
-Created with love by: <Your Name Here>
+Created with love by: Viet Anh Nguyen
   
 One or two sentence summary of your project. 
 
