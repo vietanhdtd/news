@@ -1,8 +1,7 @@
 # CoderSchool FTW - * Pew News *
 
 Created with love by: Viet Anh Nguyen
-  
-One or two sentence summary of your project. 
+
 
 ## Video Walkthrough
 
